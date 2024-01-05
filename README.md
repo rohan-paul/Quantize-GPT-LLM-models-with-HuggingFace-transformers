@@ -50,4 +50,4 @@ https://huggingface.co/docs/transformers/main_classes/quantization#transformers.
 
 ## License
 
-This project is open source, under the MIT license.
+Apache 2
