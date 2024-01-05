@@ -4,7 +4,7 @@ A Python script to quantize GPT models with HuggingFace 'transformers' library.
 
 ------------------
 
-# Quick Start Guide
+# Usage
 
 ### Install all dependencies
 
